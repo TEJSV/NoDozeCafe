@@ -1,0 +1,35 @@
+name: productapp
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cloud_firestore: ^0.12.9
+  firebase_core: ^0.4.0+8
+  provider: ^3.0.0+1
+  get_it: ^1.0.3+2
+  image_picker_saver: ^0.1.0
+  intl: ^0.16.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - assets/
+
+
