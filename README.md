@@ -12,6 +12,8 @@ Steps to run:
 (2) download the build folder from the given google drive                                                                                 
 ->flutter run (cmd) / android studio 
 
+
+
 About:
 
 An android app which takes orders on other's behalf and stores the information in Firebase Database.
