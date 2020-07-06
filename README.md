@@ -13,6 +13,7 @@ Steps to run:
 ->flutter run (cmd) / android studio 
 
 About:
+
 An android app which takes orders on other's behalf and stores the information in Firebase Database.
 
 Functionalities on the App:
